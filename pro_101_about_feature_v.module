@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Pro 101 About Feature (v) feature.
+ */
+
+include_once('pro_101_about_feature_v.features.inc');
